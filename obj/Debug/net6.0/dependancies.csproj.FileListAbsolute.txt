@@ -1,0 +1,15 @@
+/home/kelvin/Desktop/dependancies/bin/Debug/net6.0/dependancies
+/home/kelvin/Desktop/dependancies/bin/Debug/net6.0/dependancies.deps.json
+/home/kelvin/Desktop/dependancies/bin/Debug/net6.0/dependancies.runtimeconfig.json
+/home/kelvin/Desktop/dependancies/bin/Debug/net6.0/dependancies.dll
+/home/kelvin/Desktop/dependancies/bin/Debug/net6.0/dependancies.pdb
+/home/kelvin/Desktop/dependancies/obj/Debug/net6.0/dependancies.csproj.AssemblyReference.cache
+/home/kelvin/Desktop/dependancies/obj/Debug/net6.0/dependancies.GeneratedMSBuildEditorConfig.editorconfig
+/home/kelvin/Desktop/dependancies/obj/Debug/net6.0/dependancies.AssemblyInfoInputs.cache
+/home/kelvin/Desktop/dependancies/obj/Debug/net6.0/dependancies.AssemblyInfo.cs
+/home/kelvin/Desktop/dependancies/obj/Debug/net6.0/dependancies.csproj.CoreCompileInputs.cache
+/home/kelvin/Desktop/dependancies/obj/Debug/net6.0/dependancies.dll
+/home/kelvin/Desktop/dependancies/obj/Debug/net6.0/refint/dependancies.dll
+/home/kelvin/Desktop/dependancies/obj/Debug/net6.0/dependancies.pdb
+/home/kelvin/Desktop/dependancies/obj/Debug/net6.0/dependancies.genruntimeconfig.cache
+/home/kelvin/Desktop/dependancies/obj/Debug/net6.0/ref/dependancies.dll
